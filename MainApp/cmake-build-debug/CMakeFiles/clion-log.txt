@@ -1,0 +1,7 @@
+/snap/clion/114/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/vtuchyna/CLionProjects/MainApp
+-- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.71.0/BoostConfig.cmake (found version "1.71.0")  
+-- Found valid rdkafka version
+-- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.71.0/BoostConfig.cmake (found version "1.71.0") found components: system filesystem 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/vtuchyna/CLionProjects/MainApp/cmake-build-debug

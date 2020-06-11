@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/AnimalDB.dir/main.cpp.o  -o AnimalDB  -Wl,-rpath,/usr/local/lib /usr/lib/x86_64-linux-gnu/libmysqlclient.so /usr/lib/x86_64-linux-gnu/libmysqlpp.so /usr/local/lib/libcppkafka.so.0.3.1 /usr/lib/x86_64-linux-gnu/librdkafka.so -lpthread -lrt -lssl -lcrypto -ldl -lz 

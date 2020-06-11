@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vtuchyna/CLionProjects/buyTicket/main.cpp
+cppkafka/cppkafka.h
+-
+cppkafka/consumer.h
+-
+cppkafka/utils/consumer_dispatcher.h
+-
+cppkafka/configuration.h
+-
+iostream
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/buyTicket.dir/main.cpp.o  -o buyTicket  -Wl,-rpath,/usr/local/lib /usr/local/lib/libcppkafka.so.0.3.1 /usr/lib/x86_64-linux-gnu/librdkafka.so -lpthread -lrt -lssl -lcrypto -ldl -lz 

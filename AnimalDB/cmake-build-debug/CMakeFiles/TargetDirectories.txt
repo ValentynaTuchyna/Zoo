@@ -1,0 +1,3 @@
+/home/vtuchyna/CLionProjects/AnimalDB/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vtuchyna/CLionProjects/AnimalDB/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vtuchyna/CLionProjects/AnimalDB/cmake-build-debug/CMakeFiles/AnimalDB.dir

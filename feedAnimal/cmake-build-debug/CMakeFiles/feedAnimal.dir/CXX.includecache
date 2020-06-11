@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vtuchyna/CLionProjects/feedAnimal/main.cpp
+iostream
+-
+cppkafka/cppkafka.h
+-
+cppkafka/consumer.h
+-
+cppkafka/utils/consumer_dispatcher.h
+-
+cppkafka/configuration.h
+-
+csignal
+-
+

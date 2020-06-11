@@ -1,0 +1,3 @@
+/home/vtuchyna/CLionProjects/feedAnimal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vtuchyna/CLionProjects/feedAnimal/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vtuchyna/CLionProjects/feedAnimal/cmake-build-debug/CMakeFiles/feedAnimal.dir
